@@ -42,7 +42,7 @@ const ConfirmationModel = ({ isOpen, onClose, setDeleteResponse }) => {
                 Are you sure?
               </span>
               <p className="text-center">
-                Do you really want to delete this customer? This process can't
+                Do you really want to delete this Post? This process can't
                 be undone.
               </p>
             </div>

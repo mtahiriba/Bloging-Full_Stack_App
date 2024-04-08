@@ -1,9 +1,3 @@
-
-// export { default as Navbar } from './Navbar';
-// export { default as Loader } from "./Loader";
-// export { default as Timer } from "./Timer";
-
-
 export { default as GeneralLayout } from "./Layout";
 export { default as InputField } from "./InputField";
 export { default as PasswordField } from "./PasswordField";
